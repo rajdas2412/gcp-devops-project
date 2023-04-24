@@ -1,1 +1,2 @@
-#### This is a repo for GCP DevOps Project 
+# GCP DevOps Project
+## Repo for KodeKloud GCP DevOps Course
